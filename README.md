@@ -82,15 +82,6 @@ cd client && npm start
 Open: http://localhost:3000
 
 ---
-
-## 🔐 Demo Credentials
-
-| Role | Email | Password | Access |
-|---|---|---|---|
-| Admin | admin@smartdine.pro | admin123 | Full dashboard |
-| Kitchen | kitchen@smartdine.pro | kitchen123 | Kitchen display |
-| POS | pos@smartdine.pro | pos123 | Billing terminal |
-
 ---
 
 ## 🐳 Docker Deployment
