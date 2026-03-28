@@ -283,7 +283,7 @@ export default {
 ## 📞 Support
 
 - Documentation: https://docs.smartdine.pro
-- Email: support@smartdine.pro
+- Email: ramishshehzad456@gmail.com
 - License: Commercial — each purchase includes 1 production license
 
 ---
